@@ -1,5 +1,5 @@
 - [x] Task 1: Set up the React application structure and create the top-level Pokemon Explorer component.
-- [ ] Task 2: Build the Master-Detail page layout with responsive master-list and detail panels.
+- [x] Task 2: Build the Master-Detail page layout with responsive master-list and detail panels.
 - [ ] Task 3: Fetch the paginated Pokemon list from PokeAPI and display Pokemon names in the Master panel.
 - [ ] Task 4: Add selection state and pass the selected Pokemon and selection handler between components through props.
 - [ ] Task 5: Fetch details for the selected Pokemon and show its name, image or sprite, types, abilities, base stats, height, and weight.
