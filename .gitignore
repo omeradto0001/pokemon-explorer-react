@@ -3,3 +3,5 @@
 **/Release/
 **/x64/
 *.vcxproj.user
+node_modules/
+dist/
